@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ashtonstudios.uk/sitemap.xml
+Disallow: /motion/p/
